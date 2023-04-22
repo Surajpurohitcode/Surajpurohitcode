@@ -6,13 +6,8 @@
 ### <div align="center">I'm Suraj, Java and Android app Developer</div>  
   
 
-- 🌱 I’m currently learning Android app development  
-  
-
-- ❓ Ask me about anything related to core java and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+# 💫 About Me:
+hello my name is suraj and i am java developer i like to develop android apps and come up with new solutions
   
 
 <br/>  
