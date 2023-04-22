@@ -64,7 +64,7 @@
 
 ## Github Stats  
 
-
+<center>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajpurohitcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajpurohitcode&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=180447" />
 </a>
@@ -73,7 +73,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Surajpurohitcode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=180447" alt="Suraj's GitHub Stats" />
   
 </a>
-
+</center?
 <br/>  
 
 
