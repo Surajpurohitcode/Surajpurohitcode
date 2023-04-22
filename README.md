@@ -65,7 +65,7 @@
 ## Github Stats  
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajCode">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajpurohitcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
