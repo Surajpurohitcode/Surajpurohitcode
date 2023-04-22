@@ -28,7 +28,7 @@
 ## My Skill Set  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,android,cpp,c,python" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,cpp,c,python" />
   </a>
 </p>
 
