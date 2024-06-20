@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://github.com/Surajpurohitcode/Surajpurohitcode/blob/main/hello_github.gif" align="center" style="width: 100%" />
+# My Project
+
+<iframe src="https://lottie.host/embed/618c45f6-79b0-4ec4-aa78-742bcdf43954/dEz7fB3aBk.json" style="width: 100%; height: 500px; border: none;" allowfullscreen></iframe>
+
 </div>  
   
 
@@ -7,7 +10,12 @@
   
 
 # 💫 About Me:
-hello my name is suraj and i am java developer i like to develop android apps and come up with new solutions
+<p align="left">
+I'm Suraj Purohit from Rajasthan, India.<br><br>
+- 🔭 I’m working as a freelance Android Developer.<br>
+- 📚 I'm currently learning advanced Kotlin programming and Jetpack Compose.<br>
+- ⚡ In my free time, I enjoy contributing to open-source projects, hiking, and exploring new technologies.
+</p>
   
 
 <br/>  
@@ -23,7 +31,7 @@ hello my name is suraj and i am java developer i like to develop android apps an
 ## My Skill Set  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,cpp,c,python" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,javascript,cpp,c,python" />
   </a>
 </p>
 
@@ -46,14 +54,9 @@ hello my name is suraj and i am java developer i like to develop android apps an
 
 ## Github Stats  
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajpurohitcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajpurohitcode&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=180447" />
-</a>
-
-<a href="https://github.com/Surajpurohitcode">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Surajpurohitcode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=180447" alt="Suraj's GitHub Stats" />
-  
-</a>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Surajpurohitcode&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 <br/>  
 
 
