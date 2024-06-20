@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Suraj, Java and Android app Developer</div>  
+### <div align="center">👋 Hi, I'm Suraj Purohit! Passionate Android Developer 🚀</div>  
   
 
 # 💫 About Me:
@@ -72,13 +72,15 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Surajpurohitcode&&style=flat-square" align="center" />
+
 </div>  
   
 
 <br/>  
 
-<div align="center"></div>
+<div align="center">
+<img src="https://profile-counter.glitch.me/SurajPurohitcode/count.svg?" />
+</div>
 <br />
 
 ----
