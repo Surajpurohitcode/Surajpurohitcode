@@ -1,7 +1,7 @@
 <div align="center">
-# My Project
 
-![Lottie Animation](path/to/your/uploaded/animation.gif)
+
+![Lottie Animation](https://github.com/Surajpurohitcode/Surajpurohitcode/blob/main/lottie_anim.gif)
 
 </div>  
   
