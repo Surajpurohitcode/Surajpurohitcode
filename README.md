@@ -1,7 +1,7 @@
 <div align="center">
 # My Project
 
-<iframe src="https://lottie.host/embed/618c45f6-79b0-4ec4-aa78-742bcdf43954/dEz7fB3aBk.json" style="width: 100%; height: 500px; border: none;" allowfullscreen></iframe>
+![Lottie Animation](path/to/your/uploaded/animation.gif)
 
 </div>  
   
